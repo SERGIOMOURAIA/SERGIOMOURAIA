@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá, eu sou o Sérgio 👋
 
-<!--
-**SERGIOMOURAIA/SERGIOMOURAIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Este README aparece na sua página de perfil: github.com/SERGIOMOURAIA
+     Troque os textos abaixo pelos seus. Texto entre estas marcas fica invisível. -->
 
-Here are some ideas to get you started:
+🔭 **No momento estou trabalhando em** — descreva aqui seu projeto atual
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 **Estou aprendendo** — tecnologias ou áreas que está estudando
+
+💬 **Pode me perguntar sobre** — os assuntos que você domina
+
+📫 **Como me encontrar** — e-mail, LinkedIn ou site
+
+---
+
+### Tecnologias
+
+<!-- Apague as que não usa e acrescente as suas. -->
+
+`Python` · `JavaScript` · `Git`
+
+---
+
+<!-- Estatísticas do perfil, geradas automaticamente por um serviço externo.
+     Para exibi-las, apague a linha acima e a linha abaixo desta marca.
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SERGIOMOURAIA&show_icons=true)
+
 -->
